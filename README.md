@@ -14,4 +14,4 @@ Olá, e bem vindo ao meu perfil. Espero que você aproveite sua estadia! :)
 
 Eu estou começando minha carreira como um engenheiro da computação, e, dessa forma, estou explorando diversos projetos para aprender como tudo funciona.
 
-Atualmente, eu não possuo um projeto principal, no entanto uso o Github para compartilhar meus deveres de casa e projetos de classe. Contudo, tenho grande interesse em colaborar com comunidades *open source*, seja com código ou com documentação.
+Atualmente, eu não possuo um projeto principal. No entanto, uso o Github para compartilhar meus deveres de casa e projetos de classe. Contudo, tenho grande interesse em colaborar com comunidades *open source*, seja com código ou com documentação.
